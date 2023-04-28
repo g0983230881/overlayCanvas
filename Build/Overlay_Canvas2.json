@@ -1,0 +1,16 @@
+{
+"companyName": "com.psygame",
+"productName": "UnityWebsocket",
+"productVersion": "2.4.5",
+"dataUrl": "Overlay_Canvas2.data.unityweb",
+"wasmCodeUrl": "Overlay_Canvas2.wasm",
+"wasmFrameworkUrl": "Overlay_Canvas2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.40f1"
+}

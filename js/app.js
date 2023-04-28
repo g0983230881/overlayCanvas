@@ -1,4 +1,4 @@
-const unityInstance = UnityLoader.instantiate("unityContainer", "Build/Overlay_Canvas3.json");
+const unityInstance = UnityLoader.instantiate("unityContainer", "Build/Overlay_Canvas2.json");
 let isCameraReady = false;
 let isDetectionManagerReady = false;
 let gl = null;
